@@ -1,4 +1,4 @@
-package com.example.robertlyons.housemate;
+package com.HouseMateApps.housemate;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
